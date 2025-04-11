@@ -1,0 +1,17 @@
+# SPDX-FileCopyrightText: 2025 Lucas Carratalá Del Toro <lcarratal7@alumno.uned.es>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+version = 1
+
+# Computer-generated files.
+[[annotations]]
+path = ["flake.lock", "src/README.TXT"]
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"
+
+# BlueJ files. (don't allow comments).
+[[annotations]]
+path = ["flake.lock", "src/package.bluej"]
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"
